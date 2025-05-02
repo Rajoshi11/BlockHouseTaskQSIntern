@@ -82,11 +82,11 @@ Plots saved automatically.
 
 results.png
 
-![image](https://github.com/user-attachments/assets/518e413a-b008-4e66-afe1-996a03795591)
+![image](https://github.com/user-attachments/assets/837b558c-e035-4be6-81f2-629b38f0402c)
 
 results_bar.png
 
-![image](https://github.com/user-attachments/assets/fe801e48-3f4e-4e4f-9831-1c7146f255df)
+![image](https://github.com/user-attachments/assets/4c14632a-cf5e-4df5-81bf-c31ee5f99dac)
 
 Output for particular test run:
 ```
